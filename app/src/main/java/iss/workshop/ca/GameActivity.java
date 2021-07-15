@@ -107,7 +107,7 @@ public class GameActivity extends AppCompatActivity {
             }
         });
 
-        //Start Sound
+        //Start Background Music
         bgSoundMP.setLooping(true);
         bgSoundMP.start();
 
